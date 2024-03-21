@@ -1,11 +1,11 @@
 myhtml = """
 <ul class="nav-list nav-list-root">
-    <li class="nav-item nav-item-root nivel1 corte selected" style="overflow: auto; height: 100%;">
+    <li class="nav-item nav-item-root nivel1 corte" style="overflow: auto; height: 100%;">
         <a href="/corte-y-abrasivos/" class="hyp-top-lvl has-children" data-tracking-data="null">
             <span>Corte y Abrasivos</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/corte-y-abrasivos/brocas1/" class="hyp encabezado-menu has-children"
@@ -413,7 +413,7 @@ myhtml = """
             <span>Maquinaria</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/maquinaria/electroportatil-cable/" class="hyp encabezado-menu has-children"
@@ -790,7 +790,7 @@ myhtml = """
             <span>Protección Laboral</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/ropalaboral/" class="hyp encabezado-menu has-children" data-tracking-data="null">
@@ -1241,7 +1241,7 @@ myhtml = """
             <span>Mantenimiento y Taller</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/ordenaciónindustrial/" class="hyp encabezado-menu has-children" data-tracking-data="null">
@@ -1659,7 +1659,7 @@ myhtml = """
             <span>Tornillería y Fijaciones</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/fijaciones/" class="hyp encabezado-menu has-children" data-tracking-data="null">
@@ -2119,7 +2119,7 @@ myhtml = """
             <span>Productos Metálicos</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/mallaypostes/" class="hyp encabezado-menu has-children" data-tracking-data="null">
@@ -2390,7 +2390,7 @@ myhtml = """
             <span>Metrología</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/calibres/" class="hyp encabezado-menu has-children" data-tracking-data="null">
@@ -2549,7 +2549,7 @@ myhtml = """
             <span>Herramienta Manual</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/llavesmano/" class="hyp encabezado-menu has-children" data-tracking-data="null">
@@ -3149,7 +3149,7 @@ myhtml = """
             <span>Soldadura</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/equipos/" class="hyp encabezado-menu has-children" data-tracking-data="null">
@@ -3399,7 +3399,7 @@ myhtml = """
             <span>Químicos</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/adhesivosyquimicos/" class="hyp encabezado-menu has-children" data-tracking-data="null">
@@ -3668,7 +3668,7 @@ myhtml = """
             <span>Escaleras</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/aluminio/" class="hyp encabezado-menu" data-tracking-data="null">
@@ -3704,7 +3704,7 @@ myhtml = """
             <span>Ferretería</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/mangueras/" class="hyp encabezado-menu" data-tracking-data="null">
@@ -3778,7 +3778,7 @@ myhtml = """
             <span>Motoventilados</span>
         </a>
 
-        <ul class="nav-list nav-list-sub" style="width: 668.462px;">
+        <ul class="nav-list nav-list-sub" style="width: 1050.77px;">
 
             <li class="nav-item nav-item-sub nivel2">
                 <a href="/3m-tr300/" class="hyp encabezado-menu has-children" data-tracking-data="null">
@@ -3925,32 +3925,21 @@ myhtml = """
             </li>
 
         </ul>
-
-
     </li>
     <li class="nav-item nav-item-root nivel1 resaltar" style="overflow: auto; height: 100%;">
         <a href="/zona-outlet/" class="hyp-top-lvl" data-tracking-data="null">
             <span>ZONA OUTLET</span>
         </a>
-
-
-
     </li>
     <li class="nav-item nav-item-root nivel1 resaltar" style="overflow: auto; height: 100%;">
         <a href="/marcas" class="hyp-top-lvl" data-tracking-data="null">
             <span>MARCAS</span>
         </a>
-
-
-
     </li>
     <li class="nav-item nav-item-root nivel1 resaltar" style="overflow: auto; height: 100%;">
         <a href="/news/" class="hyp-top-lvl" data-tracking-data="null">
             <span>BLOG SINAX</span>
         </a>
-
-
-
     </li>
 </ul>
 """
